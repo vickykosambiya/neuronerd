@@ -1,0 +1,17 @@
+# Environment
+.env
+venv/
+__pycache__/
+*.pyc
+
+# Intermediate outputs (too large/noisy)
+output/extracted/
+output/chunks/
+output/generated/
+output/cleaned/
+
+# Keep the final dataset!
+!output/final/
+
+# Checkpoints
+output/checkpoints/

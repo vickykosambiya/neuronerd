@@ -1,0 +1,19 @@
+{
+  "train": {
+    "count": 8007,
+    "avg_instruction_words": 23.756338204071437,
+    "avg_output_words": 142.53628075433994,
+    "min_output_words": 83,
+    "max_output_words": 429
+  },
+  "test": {
+    "count": 422,
+    "avg_instruction_words": 23.53080568720379,
+    "avg_output_words": 141.46682464454977,
+    "min_output_words": 88,
+    "max_output_words": 215
+  },
+  "total_entries": 8429,
+  "train_ratio": 0.95,
+  "test_ratio": 0.050000000000000044
+}
